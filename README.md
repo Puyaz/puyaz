@@ -1,4 +1,4 @@
-# Hi, I'm Pooya Zia👋
+# Hi, I'm Pooya👋
 
 ## Software Developer | React | Next.js | Automation
 
