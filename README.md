@@ -1,4 +1,4 @@
-# Hi, I'm Pooya👋
+# Hi, I'm Pooya
 
 ## Software Developer | React | Next.js | Automation
 
@@ -8,7 +8,7 @@ My background in Electrical Engineering and electronics helps me combine softwar
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Full-Stack Web Development
 - React and Next.js Applications
@@ -18,7 +18,7 @@ My background in Electrical Engineering and electronics helps me combine softwar
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 ### Frontend
 - React.js
@@ -39,9 +39,9 @@ My background in Electrical Engineering and electronics helps me combine softwar
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📅 Next.js Multi Calendar
+### Next.js Multi Calendar
 
 A modern multi-purpose calendar application built with React and Next.js.
 
@@ -52,10 +52,10 @@ Features:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: https://github.com/Puyaz
 
 ---
 
-⭐ Always learning, building, and improving.
+Always learning, building, and improving.
